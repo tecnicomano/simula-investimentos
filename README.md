@@ -1,7 +1,7 @@
 # Simulador para investimentos em fundos imobiliarios
 Simulador criado de modo a ter uma media de quanto sera o rendimento ao investir em fundos imobiliarios
 # Objetivo
-Elaborado para simular uma media de redimento de acordor com o salario do investidor, quanto sera investido e por quanto tempo ira investir
+Elaborado para simular uma media de rendimento de acordor com o salario do investidor, quanto sera investido e por quanto tempo ira investir
 # Como configurar?
 ⚙️CONFIGURAÇÃO: O investidor colocara o valor do salario e o pocentual do rendimento da carteira atual
 
